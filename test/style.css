@@ -1,0 +1,14 @@
+:root {
+  --background-color: #121212;
+  --text-color: #fff;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+canvas {
+  border: #7f7f7f solid 1px;
+}
